@@ -52,3 +52,4 @@ def drawKFig(quote_code, start_date, end_date):
 if __name__ == "__main__":
     drawKFig(quote_code='601668', start_date='2016-05-29', end_date='2017-06-12')
     print("hello gittest")
+    print("test2")
